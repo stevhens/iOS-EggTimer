@@ -19,4 +19,4 @@ Egg Timer is a timer app to boil eggs depending on how we prefer our eggs(the in
 
 ## Screenshot
 
-![EggTimer Screenshot](Documentation/iOS-EggTimer.png)
+![EggTimer-Screenshot](Documentation/iOS-EggTimer.png)
