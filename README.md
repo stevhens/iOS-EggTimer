@@ -2,7 +2,7 @@
 
 ## Outline
 
-This app makes me learn to solve problems by exploring StackOverflow, Apple Documentation and how to implement  `scheduledTimer(withTimeInterval:repeats:block:)` type method. But there are also other parts that makes me learn more of the Swift programming concepts. 
+This app makes me learn to solve problems by exploring StackOverflow, Apple Documentation and how to implement  `scheduledTimer(withTimeInterval:repeats:block:)` type method. There are also other parts that makes me learn more of the Swift programming concepts. 
 
 ## What is Egg Timer
 
